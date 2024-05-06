@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flutter Bag  Tracker App
 
 <-------
@@ -13,3 +14,6 @@ Simply download the code and run it in your Flutter environment to start trackin
 
 
 ---->
+=======
+# Bag-Track
+>>>>>>> b0b81aa66dae9239d81fa1af577a2e7826466d2c
