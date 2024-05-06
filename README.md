@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-Flutter Bag  Tracker App
+
+## Flutter Bag  Tracker App
 
 <-------
-   Description
+   ## Description
 Welcome to the Flutter Package Tracker! This app is designed to simplify package tracking and product identification. With a sleek user interface and seamless functionality, tracking packages and identifying products has never been easier.
 
-     Features
+   ## Features
 Scan QR codes or manually input tracking codes
 Retrieve detailed descriptions and tracking updates
 Intuitive interface for smooth user experience
@@ -14,6 +14,5 @@ Simply download the code and run it in your Flutter environment to start trackin
 
 
 ---->
-=======
-# Bag-Track
->>>>>>> b0b81aa66dae9239d81fa1af577a2e7826466d2c
+
+
